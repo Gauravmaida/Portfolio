@@ -1,0 +1,12 @@
+{
+  "name": "Gaurav",
+  "lastname": "Maida",
+  "age": 21,
+  "true": true,
+  "item": null,
+  "myarr": ["flower", "lotus", "sunrie"],
+  "myobj": {
+    "name": "kothari",
+    "age": 19
+  }
+}
